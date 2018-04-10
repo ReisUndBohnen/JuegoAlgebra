@@ -1,0 +1,6 @@
+package beagle;
+
+public class Jugadores {
+	public String nombre;
+	public int puntos;
+}
