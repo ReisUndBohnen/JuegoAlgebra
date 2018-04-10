@@ -1,1 +1,1 @@
-# JuegoAlgebra
+public class Preguntas{ 
